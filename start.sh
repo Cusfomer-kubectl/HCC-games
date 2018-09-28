@@ -11,3 +11,5 @@ http-server &
 cd ../brickball_8083/
 http-server &
 
+cd ../fctank_8084/
+http-server &
